@@ -2,7 +2,6 @@
 # Loan Repayment Prediction
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
 ## Description
 Loan Repayment Prediction is a Python project that utilizes the Flask web framework and the Catboost model for predicting loan repayment likelihood. The project aims to provide a user-friendly interface for users to input relevant information and obtain predictions regarding the probability of loan repayment.
 
