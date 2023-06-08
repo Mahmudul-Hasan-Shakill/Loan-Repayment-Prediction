@@ -1,4 +1,3 @@
-# Loan-Repayment-Prediction
 ```markdown
 # Loan Repayment Prediction
 
@@ -59,7 +58,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - The open-source community for their contributions and inspiration.
 
 ## Contact
-For any inquiries or questions, please feel free to reach out to [email protected]
+For any inquiries or questions, please feel free to reach out to [mhshakil4477@gmail.com]
 
 Enjoy using Loan Repayment Prediction!
 ```
